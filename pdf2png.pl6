@@ -1,5 +1,7 @@
 #!/usr/bin/env perl6
 
+# Purpose: Convert PDF files to PNG format.
+
 # Use the gs command (Ghostscript) command to convert PDF files to PNG format.
 # Assumes Ghostscript is installed and in the user's path
 # Creates the output files in the same directory as the input files.
